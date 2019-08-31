@@ -19,6 +19,6 @@ Once the update goes through, the app will show the customer the total cost of t
 
 ![Query2](./images/all_products_query2.png)
 
-![Query2](./images/all_products_query2.png)
+![Purchase total cost](./images/all_products_total_cost.png)
 
-![Purchase total cost](./images/all_products_item_not_available.png)
+![Item not available](./images/all_products_item_not_available.png)
